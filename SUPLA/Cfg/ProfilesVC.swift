@@ -32,7 +32,6 @@ class ProfilesVC: BaseViewController {
     private let _disposeBag = DisposeBag()
 
     private var _viewModel: ProfilesVM!
-    private var _profileCount = 0
 
     private let _activateProfile = PublishSubject<NSManagedObjectID>()
     private let _editProfile = PublishSubject<NSManagedObjectID>()
@@ -41,7 +40,6 @@ class ProfilesVC: BaseViewController {
 
     private static let _profileCellId = "ProfileCell"
     private static let _addNewCellId = "AddNewProfileCellId"
-    private static let _maxProfileConut = 3
     
     func dataSource() -> RxTableViewSectionedReloadDataSource<ProfilesListModel> {
         
@@ -144,8 +142,8 @@ class ProfilesVC: BaseViewController {
                     self._activateProfile.on(.next(id))
                 case .addNewProfileItem:
                     print("tap on command add new")
-                    
-                if self._profileCount >= ProfilesVC._maxProfileConut {
+// Quest 3
+                if self._viewModel.profilesMaxCountReached() {
                     self.showAlert()
                     return
                 }
@@ -159,7 +157,6 @@ class ProfilesVC: BaseViewController {
     }
     
     private func dataModel(with items: [ProfileListItem]) -> [ProfilesListModel] {
-        _profileCount = items.count
         return [ .profileSection(items: items),
                  .commandSection(items: [.addNewProfileItem])
         ]
@@ -182,7 +179,8 @@ class ProfilesVC: BaseViewController {
             }
         }.disposed(by: _disposeBag)
     }
-    
+
+// Quest 3
     private func showAlert() {
         let alert = UIAlertController(title: Strings.Profiles.addNewAlertTitle,
                                       message: Strings.Profiles.addNewAlertText,

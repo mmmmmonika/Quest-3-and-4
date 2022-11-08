@@ -38,7 +38,7 @@ class SuplaMenuController: UIViewController, NavigationCoordinatorAware {
 
         view.backgroundColor = .clear
         view.addSubview(_menuItems)
-                
+// Quest 4
        // if SAApp.db().zwaveBridgeChannelAvailable() {
             _menuItems.buttonsAvailable = SAMenuItemIds.all
 //        } else {

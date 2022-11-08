@@ -40,6 +40,8 @@ class ProfilesVM {
     private let _profileManager: ProfileManager
     private let _disposeBag = DisposeBag()
     
+    private static let _maxProfileConut = 3
+    
     init(profileManager: ProfileManager) {
         _profileManager = profileManager
 
@@ -79,8 +81,10 @@ class ProfilesVM {
                                                isActive: $0.isActive) })
 
     }
-    
-    private func profilesCount() {
+  
+// Quest 3
+    func profilesMaxCountReached() -> Bool {
+        return profileItems.value.count >= ProfilesVM._maxProfileConut
     }
 }
 
