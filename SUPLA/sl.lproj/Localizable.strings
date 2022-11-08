@@ -1,0 +1,191 @@
+/*
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License
+ as published by the Free Software Foundation; either version 2
+ of the License, or (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with this program; if not, write to the Free Software
+ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+ */
+
+"version" = "različica";
+"Open" = "Odprite";
+"Open Close" = "Odprite Zaprite";
+"Reveal" = "Razkrijte";
+"Shut" = "Zastrite";
+"On" = "Vklopite";
+"Off" = "Izklopite";
+"opened the gateway" = "odprl je vratca";
+"opened / closed the gate" = "odprl / zaprl je dvoriščna vrata";
+"opened / closed the gate doors" = "odprl / zaprl je garažna vrata";
+"opened the door" = "odprl je vrata";
+"opened / closed roller shutter" = "odprl / zaprl je roleto";
+"turned the power ON/OFF" = "vklopil / izklopil je napajanje";
+"turned the light ON/OFF" = "vklopil / izklopil je luč";
+"Settings" = "Nastavitve";
+"About" = "O programu";
+"Gateway" = "Vratca";
+"Gate" = "Dvoriščna vrata";
+"Garage door" = "Garažna vrata";
+"Door" = "Vrata";
+"Roller shutter" = "Roleta";
+"Power switch" = "Stikalo za vklop";
+"Lighting switch" = "Stikalo luči";
+"Thermometer" = "Termometer";
+"Temperature and humidity" = "Temperatura in vlažnost";
+"No liquid sensor" = "Senzor pomanjkanja tekočine";
+"Gateway opening sensor" = "Senzor odprtja vratc";
+"Gate opening sensor" = "Senzor odprtja dvoriščnih vrat";
+"Garage door opening sensor" = "Senzor odprtja garažnih vrat";
+"Door opening sensor" = "Senzor odprtja vrat";
+"Roller shutter opening sensor" = "Senzor odprtja rolet";
+"Connecting..." = "Povezovanje...";
+"Unknown error" = "Neznana napaka";
+"Service temporarily unavailable" = "Storitev trenutno ni na voljo";
+"Bad credentials" = "Napačne poverilnice";
+"Client limit exceeded" = "Omejitev odjemalskih aplikacij je presežena";
+"Device disabled. Please log in to \"Supla Cloud\" and enable this device in “Smartphone” section of the website." = "Naprava je izklopljena";
+"Access Identifier is disabled" = "Identifikator dostopa je izklopljen";
+"New client registration disabled. Please log in to \"Supla Cloud\" and enable \"New client registration\" in \"Smartphone\" section of the website." = "Registracija je trenutno izklopljena. Če jo želite omogočiti, pojdite na zavihek \"Pametni telefoni\" na strani \"Supla Cloud\"";
+"Client activation required. Please log in to \"Supla Cloud\" and assign an “Access ID” for this device in “Smartphone” section of the website." = "Ta naprava nima dodeljenega identifikatorja dostopa. Pojdite na stran \"Supla Cloud\" in na zavihku \"Pametni telefoni\" dodelite ustrezen identifikator.";
+"Incompatible server version" = "Nezdružljiva različica strežnika";
+"Host not found. Make sure you are connected to the internet and that an account with the entered email address has been created." = "Naslova strežnika ni mogoče najti";
+"RGB Lighting" = "RGB osvetlitev";
+"Dimmer and RGB lighting" = "Zatemnilnik in RGB osvetlitev";
+"Dimmer" = "Zatemnilnik";
+"Distance sensor" = "Senzor razdalje";
+"Depth sensor" = "Senzor globine";
+"Did you know that Supla is an open, free project developed by the community? If you like the app, spend a moment on rating it. Thank you for your support!" = "Ali ste vedeli, da je Supla odprt in brezplačen skupnostni projekt? Če vam je ta aplikacija všeč, si vzemite trenutek in jo ocenite. Hvala za vašo podporo!";
+"Rate Now" = "Ocenite zdaj";
+"Later" = "Pozneje";
+"No thanks" = "Ne, hvala";
+"Mail sensor" = "Senzor pošte";
+"Window opening sensor" = "Senzor odprtja oken";
+"Add I/O device" = "Dodajte napravo";
+"Donate" = "Podprite projekt";
+"Create an account" = "Ustvarite račun";
+"Device registration availability information timeout!" = "Čakalna doba za pridobitev informacije o razpoložljivosti registracije naprav je prekoračena!";
+"Next" = "Naprej";
+"Start" = "Start";
+"Cancel" = "Prekličite";
+"Go to the system settings" = "Pojdi na sistemske nastavitve";
+"I/O Device registration is currently off. To continue go to „My SUPLA” at %@ and enable the Device Add Button." = "Registracija naprav je trenutno izklopljena. Za nadaljevanje pojdite na stran %@ in v zavihku \"Moja SUPLA\" omogočite dodajanje naprav.";
+"Add Wizard is only available when server connection has been set based on the email address entered in the settings. (Disable advanced options in the settings)" = "Čarovnik za dodajanje je na voljo le, če je na podlagi vnesenega e-poštnega naslova vzpostavljena povezava s strežnikom! (Onemogočite napredne možnosti v konfiguraciji računa)";
+"The connected Server does not support this function!" = "Strežnik, na katerega ste se povezali, ne podpira te funkcije!";
+"Device Configuration Completion timeout!" = "Čakalna doba za dokončanje konfiguracije naprave je prekoračena!";
+"Incorrect input parameters!" = "Napačni vhodni parametri!";
+"The connected device is not compatible with this Wizard!" = "Naprava, na katero ste se povezali, ni združljiva s tem čarovnikom!";
+"Configuration Failed!" = "Konfiguracija ni bila uspešna!";
+"Connection with the device cannot be set!" = "Povezave z napravo ni mogoče nastaviti!";
+"[Calibration]" = "[Kalibracija]";
+"Help" = "Pomoč";
+"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L4N7RSWME6LG2" = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QYN932S5UQG8N";
+"Staircase timer" = "Stopniščni avtomat";
+"https://cloud.supla.org/register" = "https://cloud.supla.org/register?lang=sl";
+
+"Retrieving data from the server..." = "Prenos podatkov s strežnika...";
+"No chart data available." = "Za tabelo ni podatkov.";
+"Electricity Meter" = "Števec električne energije";
+"Water Meter" = "Merilnik vode";
+"Gas Meter" = "Merilnik plina";
+
+"Forward active Energy" = "Aktivna porabljena energija";
+"Reverse active Energy" = "Aktivna porabljena energija";
+"Consumption in the current month" = "Poraba v tekočem mesecu";
+"Production in the current month" = "Proizvodnja v tekočem mesecu";
+"Minutes" = "Minute";
+"Hours" = "Ure";
+"Days" = "Dni";
+"Months" = "Meseci";
+"Years" = "Leta";
+"Minute to minute comparison" = "Primerjava iz minute v minuto";
+"Hour to hour comparison" = "Primerjava iz ure v uro";
+"Day to day comparison" = "Primerjava iz dneva v dan";
+"Month to month comparison" = "Primerjava iz meseca v mesec";
+"Year to year comparison" = "Primerjava iz leta v leto";
+"Ranking of hours" = "Razvrstitev ur";
+"Ranking of weekdays" = "Razvrstitev dni v tednu";
+"Ranking of months" = "Razvrstitev mesecev";
+"Consumption according to phases" = "Poraba v skladu s fazami";
+"Production according to phases" = "Izdelava v skladu s fazami";
+"Last 24 hours" = "Zadnjih 24 ur";
+"Last 7 days" = "Zadnjih 7 dni";
+"Last 30 days" = "Zadnjih 30 dni";
+"Last 90 days" = "Zadnjih 90 dni";
+"All available history" = "Vsa zgodovina je na voljo";
+"Phase 1" = "1. faza";
+"Phase 2" = "2. faza";
+"Phase 3" = "3. faza";
+"Home+ Heater" = "Gralec Home+";
+"Comfort" = "Udobje";
+"ECO" = "ECO";
+"Higher" = "Udobje";
+"Lower" = "ECO";
+"No water" = "Brez vode";
+"Burnt heater" = "Izgoreli grelec";
+"Water temperature sensor error" = "Napaka senzorja temperature vode";
+"Room temperature sensor error" = "Napaka senzorja sobne temperature";
+"No network interruptions" = "Brez prekinitev omrežja";
+"Room temperature" = "Temperatura v prostoru";
+"ON" = "VKLJUČENO";
+"OFF" = "IZKLJUČENO";
+"h" = "ura";
+
+"Wind sensor" = "Hitrost vetra";
+"Weight sensor" = "Teža";
+"Pressure sensor" = "Tlačni senzor";
+"Rain sensor" = "Merjenje padavin";
+
+"Heat meter" = "Merilnik toplote";
+
+"*Configuration mode is enabled by default on brand new products. It can also be enabled manually by pressing and holding CONFIG button or dimmer knob for around 5s.\n\n%@\n" = "Če naprava po vklopu napajanja ne deluje v konfiguracijskem načinu, držite gumb CONFIG najmanj 5 sekund.\n\n%@\n";
+"Press Next to continue." = "Če želite nadaljevati, pritisnite Naprej.";
+"Press START to start configuration." = "Pritisnite tipko START da začnete konfiguracijo.";
+"I/O Device connection setting timeout!" = "Čakalna doba za vzpostavitev povezave z izvršilno napravo je prekoračena!";
+"No I/O Devices found! Please check if your I/O Device is ON and in configuration mode." = "Ni najdenih naprav! Prepričajte se, da je naprava, ki jo želite konfigurirati, v konfiguracijskem načinu in poskusite znova.";
+"No function" = "Brez funkcije";
+"Gateway lock operation" = "Odpiranje vratc";
+"Gate operation" = "Odpiranje/zapiranje vhodnih vrat";
+"Garage door operation" = "Odpiranje/zapiranje garažnih vrat";
+"Humidity sensor" = "Senzor vlažnosti";
+"Temperature and humidity sensor" = "Senzor temperature in vlažnosti";
+"Door lock operation" = "Odpiranje vrat";
+"Roller shutter operation" = "Odpiranje in zapiranje rolet";
+"On/Off switch" = "Stikalo za vklop";
+"Light switch" = "Stikalo luči";
+"Weather Station" = "Vremenska postaja";
+"Thermostat" = "Termostat";
+"Valve" = "Ventil";
+"The waiting time for changing the channel caption has expired." = "Potekel je čas čakanja na spremembo podpisa kanala.";
+"The channel caption change failed. Code %i" = "Podpisa kanala ni bilo mogoče spremeniti. Koda %i";
+"You cannot change the function of a channel that belongs to a group." = "Funkcije kanala, ki je del skupine, ne morete spremeniti.";
+"You cannot change the function of a channel that has a schedule." = "Funkcije kanala, ki ima razpored, ne morete spremeniti.";
+"You cannot change the function of a channel that is associated with a scene." = "Funkcije kanala, ki je povezan s sceno, ne morete spremeniti.";
+"The channel function change failed. Code %i" = "Funkcije kanala ni bilo mogoče spremeniti. Koda %i";
+"The waiting time for changing the channel function has expired." = "Potekel je čas čakanja na spremembo funkcij kanala.";
+"The z-wave bridge is not responding. Check if the bridge is connected to the server." = "Most z-wave se ne odziva. Preverite, če je most povezan s strežnikom.";
+"Searching the z-wave network to build a list of devices." = "Preiskovanje omrežja z-wave za sestavo seznama naprav.";
+"The waiting time for the ID of the assigned z-wave device has expired." = "Potekel je čas čakanja na identifikator pripisane z-wave naprave.";
+"Device response not as expected. Method: \"%@\" Code: %i" = "Odziv naprave ni skladen s pričakovanji. Metoda: \"%@\" Koda: %i";
+"The waiting time for the list of z-wave devices has expired." = "Potekel je čas čakanja na seznam z-wave naprav.";
+"Assigned to:" = "Dodeljeno:";
+"Waiting for confirmation of resetting the z-wave network together with clearing the settings." = "Čakanje na potrditev ponastavitve z-wave omrežja skupaj z brisanjem nastavitev.";
+"The waiting time for the z-wave network reset has expired." = "Potekel je čas čakanja na ponastavitev z-wave mreže.";
+"Are you sure you want to reset the settings and z-wave network?" = "Ali ste prepričani, da želite ponastaviti nastavitve in omrežje z-wave?";
+"This function is not available when the bridge is in slave mode." = "Ta funkcija ni na voljo, ko je most v pomožnem načinu.";
+"Waiting for button press on the z-wave device." = "Čakanje na pritisk gumba na z-wave napravi.";
+"The waiting time for pressing the button has elapsed." = "Potekel je čas čakanja na pristisk gumba.";
+"Waiting for the device to be added to the z-wave network." = "Čakanje na dodajanje naprave v omrežje z-wave.";
+"The waiting time for adding the device to the z-wave network has expired." = "Potekel je čas čakanja na dodajanje naprave v omrežje z-wave.";
+"The waiting time to remove the device has expired." = "Potekel je čas čakanja na odstranitev naprave.";
+"The waiting time for the z-wave device assignment to the channel has elapsed." = "Potekel je čas čakanja na dodajanje z-wave naprave na kanal.";
+"The selected z-wave device is already associated with another channel. Are you sure you want to move this device to this channel?" = "Izbrana z-wave naprava je že povezana z drugim kanalom. Ali ste prepričani, da želite premakniti to napravo v ta kanal?";
+"Timeout waiting for z-wave bridge response." = "Potekel je čas čakanja na odgovor mosta z-wave.";
+"Unexpected bridge response. Code: %i" = "Nepričakovan odziv mosta. Koda: %i";
+"Z-Wave bridge" = "Most z-wave";

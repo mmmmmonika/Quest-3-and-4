@@ -1,0 +1,193 @@
+/*
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License
+ as published by the Free Software Foundation; either version 2
+ of the License, or (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with this program; if not, write to the Free Software
+ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+ 
+ */
+
+"version" = "versión";
+"Open" = "Abrir";
+"Open Close" = "Abrir Cerrar";
+"Reveal" = "Abrir";
+"Shut" = "Cerrar";
+"On" = "Activar";
+"Off" = "Desactivar";
+"opened the gateway" = "ha abierto el portillo";
+"opened / closed the gate" = "ha abierto / ha cerrado la puerta";
+"opened / closed the gate doors" = "ha abierto / ha cerrado la puerta de garaje";
+"opened the door" = "ha abierto la puerta";
+"opened / closed roller shutter" = "ha abierto / ha cerrado la persiana";
+"turned the power ON/OFF" = "ha activado / desactivado la alimentación";
+"turned the light ON/OFF" = "ha encendido / ha apagado la luz";
+"Settings" = "Ajustes";
+"About" = "Sobre el programa";
+"Gateway" = "Portillo";
+"Gate" = "Cancela";
+"Garage door" = "Puerta de garaje";
+"Door" = "Puerta";
+"Roller shutter" = "Persiana";
+"Power switch" = "Interruptor de alimentación";
+"Lighting switch" = "Interruptor de luz";
+"Thermometer" = "Termómetro";
+"Temperature and humidity" = "Temperatura y humedad";
+"No liquid sensor" = "Sensor de falta de líquido";
+"Gateway opening sensor" = "Sensor de apertura del portillo";
+"Gate opening sensor" = "Sensor de apertura de la cancela";
+"Garage door opening sensor" = "Sensor de apertura de la puerta de garaje";
+"Door opening sensor" = "Sensor de apertura de la puerta";
+"Roller shutter opening sensor" = "Sensor de apertura de las persianas";
+"Connecting..." = "Conectando...";
+"Unknown error" = "Error desconocido";
+"Service temporarily unavailable" = "Servicio temporalmente no disponible";
+"Bad credentials" = "Certificaciones incorrectas";
+"Client limit exceeded" = "Se ha superado el límite de aplicaciones del cliente";
+"Incompatible server version" = "Versión del servidor incompatible";
+"Host not found. Make sure you are connected to the internet and that an account with the entered email address has been created." = "No se ha encontrado la dirección del servidor";
+"RGB Lighting" = "Alumbrado RGB";
+"Dimmer and RGB lighting" = "Atenuador y alumbrado RGB";
+"Dimmer" = "Atenuador";
+"Distance sensor" = "Sensor de distancia";
+"Depth sensor" = "Sensor de profundidad";
+"Did you know that Supla is an open, free project developed by the community? If you like the app, spend a moment on rating it. Thank you for your support!" = "¿Sabías que Supla es un proyecto comunitario abierto y gratuito? Si te gusta esta aplicación, toma un momento para calificarla. ¡Gracias por tu apoyo!";
+"Rate Now" = "Evalúa ahora";
+"Later" = "Más tarde";
+"No thanks" = "No, gracias";
+"Mail sensor" = "Sensor de correo";
+"Window opening sensor" = "Sensor de apertura de ventanas";
+"Add I/O device" = "Añadir dispositivo";
+"Donate" = "Donar";
+"Device registration availability information timeout!" = "¡Se ha superado el tiempo de espera para la información sobre la disponibilidad de registro de dispositivos!";
+"Next" = "Siguiente";
+"Start" = "Start";
+"Cancel" = "Cancelar";
+"Go to the system settings" = "Proceda a los ajustes del sistema";
+"I/O Device registration is currently off. To continue go to „My SUPLA” at %@ and enable the Device Add Button." = "El registro de dispositivos de entrada/salida está actualmente deshabilitado. Para continuar vaya a la página %@ y en la pestaña Mi SUPLA active la registro de dispositivos.";
+"Add Wizard is only available when server connection has been set based on the email address entered in the settings. (Disable advanced options in the settings)" = "¡El Asistente para agregar solo está disponible cuando se ha establecido una conexión con el servidor según la dirección de correo electrónico ingresada! (Desactiva las opciones avanzadas en la configuración de tu cuenta)";
+"The connected Server does not support this function!" = "¡El servidor al que ha conectado no es compatible con esta característica!";
+"Device Configuration Completion timeout!" = "¡Se ha superado el tiempo de espera para completar la configuración del dispositivo!";
+"Incorrect input parameters!" = "¡Parámetros de entrada erróneos!";
+"The connected device is not compatible with this Wizard!" = "¡El dispositivo con el que se ha establecido la conexión no es compatible con este asistente!";
+"Configuration Failed!" = "¡Configuración no completada con éxito!";
+"Connection with the device cannot be set!" = "¡No se puede establecer una conexión con el dispositivo!";
+"[Calibration]" = "[Calibración]";
+"Help" = "Ayuda";
+"Staircase timer" = "Automático de escalera";
+"https://cloud.supla.org/register" = "https://cloud.supla.org/register?lang=es";
+"https://en-forum.supla.org" = "https://es-forum.supla.org";
+
+"Create an account" = "Crear cuenta";
+"Device disabled. Please log in to \"Supla Cloud\" and enable this device in “Smartphone” section of the website." = "El dispositivo está deshabilitado";
+"Access Identifier is disabled" = "El identificador de acceso está deshabilitado";
+"New client registration disabled. Please log in to \"Supla Cloud\" and enable \"New client registration\" in \"Smartphone\" section of the website." = "El registro está actualmente desactivado. Para activarlo, vaya a la pestaña \"Smartphones\" en la página \"Supla Cloud\"";
+"Client activation required. Please log in to \"Supla Cloud\" and assign an “Access ID” for this device in “Smartphone” section of the website." = "Este dispositivo no tiene un identificador de acceso asignado. Vaya a la página \"Supla Cloud\" y asigne el identificador adecuado en la pestaña \"Smartphones\".";
+
+"Retrieving data from the server..." = "Descargando datos del servidor ...";
+"No chart data available." = "No hay datos para el gráfico.";
+"Electricity Meter" = "Contador de electricidad";
+"Water Meter" = "Contador de agua";
+"Gas Meter" = "Contador de gas";
+
+"Forward active Energy" = "Energía activa recibida";
+"Reverse active Energy" = "Energía activa devuelta";
+"Consumption in the current month" = "Consumo en el mes actual";
+"Production in the current month" = "Producción en el mes actual";
+"Minutes" = "Minutos";
+"Hours" = "Horas";
+"Days" = "Días";
+"Months" = "Meses";
+"Years" = "Años";
+"Minute to minute comparison" = "Comparación minuto a minuto";
+"Hour to hour comparison" = "Comparación hora a hora";
+"Day to day comparison" = "Comparación día a día";
+"Month to month comparison" = "Comparación mes a mes";
+"Year to year comparison" = "Comparación año a año";
+"Ranking of hours" = "Ranking de horas";
+"Ranking of weekdays" = "Ranking de días de la semana";
+"Ranking of months" = "Ranking de meses";
+"Consumption according to phases" = "Consumo por fases";
+"Production according to phases" = "Producción por fases";
+"Last 24 hours" = "Últimas 24 horas";
+"Last 7 days" = "Últimos 7 días";
+"Last 30 days" = "Últimos 30 días";
+"Last 90 days" = "Últimos 90 días";
+"All available history" = "Todo el historial disponible";
+"Phase 1" = "Fase 1";
+"Phase 2" = "Fase 2";
+"Phase 3" = "Fase 3";
+"Home+ Heater" = "Calentador Home+";
+"Comfort" = "Confort";
+"ECO" = "ECO";
+"Higher" = "Comfort";
+"Lower" = "ECO";
+"No water" = "No hay agua";
+"Burnt heater" = "Calentador quemado";
+"Water temperature sensor error" = "Error del sensor de temperatura del agua";
+"Room temperature sensor error" = "Error del sensor de temperatura ambiente";
+"No network interruptions" = "No hay interrupciones de red";
+"Room temperature" = "Temperatura en la habitación";
+"ON" = "ENCENDIDO";
+"OFF" = "APAGADO";
+"h" = "h";
+
+"Wind sensor" = "Velocidad del viento";
+"Weight sensor" = "Sensor de Peso";
+"Pressure sensor" = "Sensor de presión";
+"Rain sensor" = "Sensor de precipitaciones";
+
+"Heat meter" = "Medidor de calor";
+
+"*Configuration mode is enabled by default on brand new products. It can also be enabled manually by pressing and holding CONFIG button or dimmer knob for around 5s.\n\n%@\n" = "Si tras conectar la alimentación el dispositivo no funciona en el modo de configuración, mantén presionada la tecla CONFIG durante al menos 5 segundos.\n\n%@\n";
+"Press Next to continue." = "Para continuar presiona Siguiente.";
+"Press START to start configuration." = "Presiona la tecla START para iniciar la configuración.";
+"I/O Device connection setting timeout!" = "¡Se ha superado el tiempo de espera para establecer la conexión con el dispositivo de entrada/salida!";
+"No I/O Devices found! Please check if your I/O Device is ON and in configuration mode." = "¡No se ha encontrado ningún dispositivo! Comprueba que el dispositivo que quiere configurar esta en el modo de configuración y a continuación inténtelo de nuevo.";
+"No function" = "No hay función";
+"Gateway lock operation" = "Apertura del portillo";
+"Gate operation" = "Apertura/cierre de la puerta de entrada";
+"Garage door operation" = "Apertura/cierre de la puerta de garaje";
+"Humidity sensor" = "Sensor de humedad";
+"Temperature and humidity sensor" = "Sensor de temperatura y humedad";
+"Door lock operation" = "Apertura de la puerta";
+"Roller shutter operation" = "Apertura y cierre de las persianas";
+"On/Off switch" = "Interruptor de alimentación";
+"Light switch" = "Interruptor de luz";
+"Weather Station" = "Estación meteorológica";
+"Thermostat" = "Termostato";
+"Valve" = "Válvula";
+"The waiting time for changing the channel caption has expired." = "¡Se ha superado el tiempo de espera al cambio de descripción del canal!";
+"The channel caption change failed. Code %i" = "No se ha podido cambiar la descripción del canal. Código %i";
+"You cannot change the function of a channel that belongs to a group." = "No se puede cambiar la función del canal que pertenece al grupo.";
+"You cannot change the function of a channel that has a schedule." = "No se puede cambiar la función del canal que tiene programa.";
+"You cannot change the function of a channel that is associated with a scene." = "No se puede cambiar la función del canal que está asociado con la escena.";
+"The channel function change failed. Code %i" = "No se ha podido cambiar la función del canal. Código %i";
+"The waiting time for changing the channel function has expired." = "¡Se ha superado el tiempo de espera al cambio de función del canal!";
+"The z-wave bridge is not responding. Check if the bridge is connected to the server." = "Puente z-wave no responde. Verifice si el puente está conectado con al servidor.";
+"Searching the z-wave network to build a list of devices." = "Búsqueda de red z-wave para crear una lista de dispositivos.";
+"The waiting time for the ID of the assigned z-wave device has expired." = "¡Se ha superado el tiempo de espera al identificador del dispositivo z-wave  asignado!";
+"Device response not as expected. Method: \"%@\" Code: %i" = "La respuesta del dispositivo no es la esperada. Método: \"%@\" Código: %i";
+"The waiting time for the list of z-wave devices has expired." = "¡Se ha superado el tiempo de espera a la lista de dispositivos z-wave!";
+"Assigned to:" = "Asignado a:";
+"Waiting for confirmation of resetting the z-wave network together with clearing the settings." = "Esperando la confirmación de resetear la red z-wave y eliminar los ajustes.";
+"The waiting time for the z-wave network reset has expired." = "¡Se ha superado el tiempo de espera al reinicio de la red z-wave!";
+"Are you sure you want to reset the settings and z-wave network?" = "¿Seguro de resetear los ajustes y la red z-wave?";
+"This function is not available when the bridge is in slave mode." = "Está función no está disponible cuando el puente esté en el submodo.";
+"Waiting for button press on the z-wave device." = "Esperando a que se presione una tecla en el dispositivo z-wave.";
+"The waiting time for pressing the button has elapsed." = "¡Se ha superado el tiempo de espera a presionar una tecla!";
+"Waiting for the device to be added to the z-wave network." = "Esperando agregar el dispositivo a la red z-wave.";
+"The waiting time for adding the device to the z-wave network has expired." = "¡Se ha superado el tiempo de espera a añadir dispositivo a la red z-wave!";
+"The waiting time to remove the device has expired." = "¡Se ha superado el tiempo de espera a eliminar el dispositivo!";
+"The waiting time for the z-wave device assignment to the channel has elapsed." = "¡Se ha superado el tiempo de espera a asignar el dispositivo z-wave al. canal!";
+"The selected z-wave device is already associated with another channel. Are you sure you want to move this device to this channel?" = "El dispositivo elejido z-wave ya está asociado con otro canal. ¿Está seguro de mover el dispositivo a este canal?";
+"Timeout waiting for z-wave bridge response." = "¡Se ha superado el tiempo de espera a una respuesta del puente z-wave!";
+"Unexpected bridge response. Code: %i" = "Respuesta de puente inesperada. Código: %i";
+"Z-Wave bridge" = "Puente z-wave";

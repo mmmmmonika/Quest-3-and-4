@@ -1,0 +1,191 @@
+/*
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License
+ as published by the Free Software Foundation; either version 2
+ of the License, or (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with this program; if not, write to the Free Software
+ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+ */
+
+"version" = "versjon";
+"Open" = "Åpne";
+"Open Close" = "Åpne Steng";
+"Reveal" = "Avdekk";
+"Shut" = "Lukke";
+"On" = "Skru på";
+"Off" = "Skru av";
+"opened the gateway" = "hageport åpnet";
+"opened / closed the gate" = "port åpnet/ stengt";
+"opened / closed the gate doors" = "garasjeport åpnet / stengt";
+"opened the door" = "dør åpnet";
+"opened / closed roller shutter" = "rullegardin åpnet / stengt";
+"turned the power ON/OFF" = "strøm av/på";
+"turned the light ON/OFF" = "lys av/på";
+"Settings" = "Innstillinger";
+"About" = "Om programmet";
+"Gateway" = "Hageport";
+"Gate" = "Port";
+"Garage door" = "Garasjeport";
+"Door" = "Dør";
+"Roller shutter" = "Rullegardiner";
+"Power switch" = "Strømbryter";
+"Lighting switch" = "Lysbryter";
+"Thermometer" = "Termometer";
+"Temperature and humidity" = "Temperatur og fuktighet";
+"No liquid sensor" = "Væskemangelsensor";
+"Gateway opening sensor" = "Hageportåpner sensor";
+"Gate opening sensor" = "Portåpner sensor";
+"Garage door opening sensor" = "Garasjeportåpner sensor";
+"Door opening sensor" = "Døråpner sensor";
+"Roller shutter opening sensor" = "Rullegardineråpner sensor";
+"Connecting..." = "Kobling...";
+"Unknown error" = "Ukjent feil";
+"Service temporarily unavailable" = "Tjenesten er midlertidig utilgjengelig";
+"Bad credentials" = "Feil bekreftelser";
+"Client limit exceeded" = "Grensen på antall kundeapplikasjoner er overskredet";
+"Device disabled. Please log in to \"Supla Cloud\" and enable this device in “Smartphone” section of the website." = "Enheten er skrudd av";
+"Access Identifier is disabled" = "Tilgang identifikator er av";
+"New client registration disabled. Please log in to \"Supla Cloud\" and enable \"New client registration\" in \"Smartphone\" section of the website." = "Registering er for tiden ikke på. For å skru den på gå til fanen \"Smarttelefoner\" på nettsiden \"Supla Cloud\"";
+"Client activation required. Please log in to \"Supla Cloud\" and assign an “Access ID” for this device in “Smartphone” section of the website." = "Denne enheten har ikke tilknyttet tilgang identifikator. Gå til nettsiden \"Supla Cloud\" tilpass riktig identifikator i fanen \"Smarttelefoner\".";
+"Incompatible server version" = "Inkompatibel serverversjon";
+"Host not found. Make sure you are connected to the internet and that an account with the entered email address has been created." = "Serveradresse ikke funnet";
+"RGB Lighting" = "RGB belysning";
+"Dimmer and RGB lighting" = "Dimmer og RGB belysning";
+"Dimmer" = "Dimmer";
+"Distance sensor" = "Avstandssensor";
+"Depth sensor" = "Dybdesensor";
+"Did you know that Supla is an open, free project developed by the community? If you like the app, spend a moment on rating it. Thank you for your support!" = "Visste du at Supla er et åpent og gratis samfunnsprosjekt? Hvis du liker denne appen, vennligst ta tiden og vurder den. Takk for støtten din!";
+"Rate Now" = "Vurder nå";
+"Later" = "Senere";
+"No thanks" = "Nei takk";
+"Mail sensor" = "Postsensor";
+"Window opening sensor" = "Vindusåpner sensor";
+"Add I/O device" = "Legg til enhet";
+"Donate" = "Støtt prosjektet";
+"Create an account" = "Opprett konto";
+"Device registration availability information timeout!" = "Ventetiden for informasjon om registrering av enheter er tilgjengelig er overskredet!";
+"Next" = "Videre";
+"Start" = "Start";
+"Cancel" = "Avbryt";
+"Go to the system settings" = "Gå til systeminnstillinger";
+"I/O Device registration is currently off. To continue go to „My SUPLA” at %@ and enable the Device Add Button." = "Registering av enheter inngang/utgang er for tiden skrudd av. For å fortsette, gå til nettsiden %@ og i fanen \"Min SUPLA\" skru på legg til enheter.";
+"Add Wizard is only available when server connection has been set based on the email address entered in the settings. (Disable advanced options in the settings)" = "Veiviseren legg er kun tilgjengelig når tilkobling til serveren er etablert basert på e-postadressen som er angitt! (Deaktiver avanserte innstillinger i kontokonfigurasjonen din).";
+"The connected Server does not support this function!" = "Serveren du er koblet til, støtter ikke denne funksjonen!";
+"Device Configuration Completion timeout!" = "Ventetiden for avslutning av konfigurasjon av enheten er overskredet!";
+"Incorrect input parameters!" = "wizard_result_param_error!";
+"The connected device is not compatible with this Wizard!" = "Enheten som er koblet til er ikke kompatibel med denne assistenten!";
+"Configuration Failed!" = "Konfigurasjon mislykket!";
+"Connection with the device cannot be set!" = "Kunne ikke koble til enheten!";
+"[Calibration]" = "[Kalibrering]";
+"Help" = "Hjelp";
+"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L4N7RSWME6LG2" = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QYN932S5UQG8N";
+"Staircase timer" = "Trappeautomat";
+"https://cloud.supla.org/register" = "https://cloud.supla.org/register?lang=pl";
+
+"Retrieving data from the server..." = "Nedlasting av data fra serveren...";
+"No chart data available." = "Manglende data for diagrammet.";
+"Electricity Meter" = "Elektrisitetsmåler";
+"Water Meter" = "Vannmåler";
+"Gas Meter" = "Gassmåler";
+
+"Forward active Energy" = "Aktiv strøm mottatt";
+"Reverse active Energy" = "Aktiv strøm returnert";
+"Consumption in the current month" = "Forbruk i gjeldende måned";
+"Production in the current month" = "Produksjon i gjeldende måned";
+"Minutes" = "Minutter";
+"Hours" = "Timer";
+"Days" = "Dager";
+"Months" = "Måneder";
+"Years" = "År";
+"Minute to minute comparison" = "Sammenligning minutt etter minutt";
+"Hour to hour comparison" = "Sammenligning time etter time";
+"Day to day comparison" = "Sammenligning dag etter dag";
+"Month to month comparison" = "Sammenligning måned etter måned";
+"Year to year comparison" = "Sammenligning år etter år";
+"Ranking of hours" = "Time rangering";
+"Ranking of weekdays" = "Ukedager rangering";
+"Ranking of months" = "Måneder rangering";
+"Consumption according to phases" = "Forbruk i forhold til faser";
+"Production according to phases" = "Produksjon i forhold til faser";
+"Last 24 hours" = "Siste 24 timer";
+"Last 7 days" = "Siste 7 dager";
+"Last 30 days" = "Siste 30 dager";
+"Last 90 days" = "Siste 90 dager";
+"All available history" = "Tilgjengelig historie";
+"Phase 1" = "Fase 1";
+"Phase 2" = "Fase 2";
+"Phase 3" = "Fase 3";
+"Home+ Heater" = "Varmeapparat Home+";
+"Comfort" = "Komfort";
+"ECO" = "ECO";
+"Higher" = "Komfort";
+"Lower" = "ECO";
+"No water" = "Ingen vann";
+"Burnt heater" = "Brent varmeapparat";
+"Water temperature sensor error" = "Vanntemperatursensor feil";
+"Room temperature sensor error" = "Romtemperatursensor feil";
+"No network interruptions" = "Ingen nettverk avbrudd";
+"Room temperature" = "Romtemperatur";
+"ON" = "PÅ";
+"OFF" = "AV";
+"h" = "t";
+
+"Wind sensor" = "Vindhastighet";
+"Weight sensor" = "Vekt";
+"Pressure sensor" = "Trykksensor";
+"Rain sensor" = "Nedbørsmåling";
+
+"Heat meter" = "Varmemåler";
+
+"*Configuration mode is enabled by default on brand new products. It can also be enabled manually by pressing and holding CONFIG button or dimmer knob for around 5s.\n\n%@\n" = "Hvis enheten etter å ha blitt satt til lading ikke jobber i konfigurasjonsmodus hold inne knappen CONFIG i 5 sekunder.\n\n%@\n";
+"Press Next to continue." = "For å fortsette trykk på Videre.";
+"Press START to start configuration." = "Trykk på knappen START for å starte konfigurasjonen.";
+"I/O Device connection setting timeout!" = "Ventetiden for etablering av kobling med aktuator er overskredet!";
+"No I/O Devices found! Please check if your I/O Device is ON and in configuration mode." = "Ingen enheter ble funnet! Sjekk om enheten du ønsker å konfigurere er satt i konfigurasjonsmodus, og prøv på nytt.";
+"No function" = "Manglende funksjoner";
+"Gateway lock operation" = "Åpne/steng hageporten";
+"Gate operation" = "Åpne/steng hageporten";
+"Garage door operation" = "Åpne/steng garasjeporten";
+"Humidity sensor" = "Fuktighetssensor";
+"Temperature and humidity sensor" = "Temperatur- og fuktighetssensor";
+"Door lock operation" = "Døråpning";
+"Roller shutter operation" = "Åpning og stenging av rullegardiner";
+"On/Off switch" = "Strømbryter";
+"Light switch" = "Lysbryter";
+"Weather Station" = "Værstasjon";
+"Thermostat" = "Termostat";
+"Valve" = "Ventil";
+"The waiting time for changing the channel caption has expired." = "Ventetiden for endringen av kanalens signatur er utløpt.";
+"The channel caption change failed. Code %i" = "Kunne ikke endre kanalens signatur. Kode %i";
+"You cannot change the function of a channel that belongs to a group." = "Du kan ikke endre funksjonen til en kanal som tilhører en gruppe.";
+"You cannot change the function of a channel that has a schedule." = "Du kan ikke endre funksjonen til en kanal som har en tidsplan.";
+"You cannot change the function of a channel that is associated with a scene." = "Du kan ikke endre funksjonen til en kanal som er tilknyttet en scene.";
+"The channel function change failed. Code %i" = "Kunne ikke endre kanalens funksjon. Kode %i";
+"The waiting time for changing the channel function has expired." = "Ventetiden for endringen av kanalens funksjon er utløpt.";
+"The z-wave bridge is not responding. Check if the bridge is connected to the server." = "Z-wave bro svarer ikke. Kontroller om broen er tilkoblet serveren.";
+"Searching the z-wave network to build a list of devices." = "Skanner z-wave nettverket for å lage en enhetsliste.";
+"The waiting time for the ID of the assigned z-wave device has expired." = "Ventetiden for identifikatoren til den tilknyttede z-wave enheten er utløpt.";
+"Device response not as expected. Method: \"%@\" Code: %i" = "Enhetsrespons er ikke som forventet. Metode: \"%@\" Kode: %i";
+"The waiting time for the list of z-wave devices has expired." = "Ventetiden for listen av z-wave enheter er utløpt.";
+"Assigned to:" = "Tilknyttet til:";
+"Waiting for confirmation of resetting the z-wave network together with clearing the settings." = "Venter på bekreftelse på tilbakestilling av z-wave nettverket sammen med tilbakestilling av innstillingene.";
+"The waiting time for the z-wave network reset has expired." = "Ventetiden for tilbakestilling av z-wave nettverket er utløpt.";
+"Are you sure you want to reset the settings and z-wave network?" = "Er du sikker på at du vil tilbakestille innstillinger og z-wave nettverket?";
+"This function is not available when the bridge is in slave mode." = "Denne funksjonen er ikke tilgjengelig når broen er i slave-modus.";
+"Waiting for button press on the z-wave device." = "Venter på et knappetrykk på en z-wave enhet.";
+"The waiting time for pressing the button has elapsed." = "Ventetiden for knappetrykket er utløpt.";
+"Waiting for the device to be added to the z-wave network." = "Venter på tillegging av enheten til z-wave nettverket.";
+"The waiting time for adding the device to the z-wave network has expired." = "Ventetiden for tillegging av enheten til z-wave nettverket er utløpt.";
+"The waiting time to remove the device has expired." = "Ventetiden for fjerning av enheten er utløpt.";
+"The waiting time for the z-wave device assignment to the channel has elapsed." = "Ventetiden for tilknytting av z-wave enheten til kanalen er utløpt.";
+"The selected z-wave device is already associated with another channel. Are you sure you want to move this device to this channel?" = "Den valgte z-wave enheten er allerede tilknyttet en annen kanal. Er du sikker på at du vil overføre enheten til denne kanalen?";
+"Timeout waiting for z-wave bridge response." = "Ventetiden for respons fra z-wave broen er utløpt.";
+"Unexpected bridge response. Code: %i" = "Respons fra broen er ikke som forventet. Kode: %i";
+"Z-Wave bridge" = "Z-wave bro";

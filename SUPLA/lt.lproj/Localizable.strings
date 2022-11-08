@@ -1,0 +1,192 @@
+/*
+ Copyright (C) AC SOFTWARE SP. Z O.O.
+ 
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License
+ as published by the Free Software Foundation; either version 2
+ of the License, or (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with this program; if not, write to the Free Software
+ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+ */
+
+"version" = "versija";
+"Open" = "Atidaryti";
+"Open Close" = "Atidaryti Uždaryti";
+"Reveal" = "Atidengti";
+"Shut" = "Uždengti";
+"On" = "Įjungti";
+"Off" = "Išjungti";
+"opened the gateway" = "atidarė dureles";
+"opened / closed the gate" = "atidarė / uždarė vartus";
+"opened / closed the gate doors" = "atidarė / uždarė garažo vartus";
+"opened the door" = "atidarė duris";
+"opened / closed roller shutter" = "atidengė / uždengė žaliuzes";
+"turned the power ON/OFF" = "įjungė / išjungė maitinimą";
+"turned the light ON/OFF" = "įjungė / išjungė šviesą";
+"Settings" = "Nustatymai";
+"About" = "Apie programą";
+"Gateway" = "Durelės";
+"Gate" = "Vartai";
+"Garage door" = "Garažo vartai";
+"Door" = "Durys";
+"Roller shutter" = "Žaliuzės";
+"Power switch" = "Maitinimo jungiklis";
+"Lighting switch" = "Šviesos jungiklis";
+"Thermometer" = "Termometras";
+"Temperature and humidity" = "Temperatūra ir drėgmė";
+"No liquid sensor" = "Skysčio stygiaus jutiklis";
+"Gateway opening sensor" = "Durelių atidarymo jutiklis";
+"Gate opening sensor" = "Vartų atidarymo jutiklis";
+"Garage door opening sensor" = "Garažo vartų atidarymo jutiklis";
+"Door opening sensor" = "Durų atidarymo jutiklis";
+"Roller shutter opening sensor" = "Žaliuzių atidengimo jutiklis";
+"Connecting..." = "Jungimasis...";
+"Service temporarily unavailable" = "Paslauga laikinai nepasiekiama";
+"Bad credentials" = "Klaidingas autentifikavimas";
+"Client limit exceeded" = "Viršutinė klientų programų riba viršyta";
+"Device disabled. Please log in to \"Supla Cloud\" and enable this device in “Smartphone” section of the website." = "Įrenginys išjungtas";
+"Access Identifier is disabled" = "rieigos identifikatorius išjungtas";
+"New client registration disabled. Please log in to \"Supla Cloud\" and enable \"New client registration\" in \"Smartphone\" section of the website." = "Šiuo metu registracija išjungta. Norėdami ją įjungti eikite prie žymės Išmanieji telefonai puslapyje \"Supla Cloud\"";
+"Client activation required. Please log in to \"Supla Cloud\" and assign an “Access ID” for this device in “Smartphone” section of the website." = "Šis įrenginys neturi priskirto prieigos identifikatoriaus. Eikite į puslapį \"Supla Cloud\" ir žymėje Išmanieji telefonai priskirkite tinkamą identifikatorių.";
+"Incompatible server version" = "Nesuderinama serverio versija";
+"Host not found. Make sure you are connected to the internet and that an account with the entered email address has been created." = "Serverio adresas nerastas";
+"RGB Lighting" = "RGB apšvietimas";
+"Dimmer and RGB lighting" = "Šviesos srauto reguliatorius ir RGB apšvietimas";
+"Dimmer" = "Dimmer";
+"Distance sensor" = "Atstumo jutiklis";
+"Depth sensor" = "Gilio jutiklis";
+"Did you know that Supla is an open, free project developed by the community? If you like the app, spend a moment on rating it. Thank you for your support!" = "Ar žinote, kad Supla tai atviras ir nemokamas projektas, kurį vysto bendruomenė? Jei Jums patinka ši programėlė, skirkite šiek tiek laiko ir įvertinkite ją. Ačiū už Jūsų palaikymą!";
+"Rate Now" = "Įvertinti dabar";
+"Later" = "Vėliau";
+"No thanks" = "Ne, ačiū";
+"Mail sensor" = "Pašto jutiklis";
+"Window opening sensor" = "Lango atidarymo jutiklis";
+"Add I/O device" = "Pridėti įrenginį";
+"Donate" = "Paremti projektą";
+"Create an account" = "Sukurti paskyrą";
+"Device registration availability information timeout!" = "Viršytas informacijos apie įrenginių registracijos prieinamumą laukimo laikas!";
+"Next" = "Toliau";
+"Start" = "Startas";
+"Cancel" = "Atšaukti";
+"Go to the system settings" = "Eikite į iOS sistemos nustatymus";
+"I/O Device registration is currently off. To continue go to „My SUPLA” at %@ and enable the Device Add Button." = "Įv/iš įrenginių registracija dabar yra išjungta. Norėdami tęsti eikite į puslapį %%@ ir žymėje „Mano SUPLA” įjunkite įrenginių pridėjimą.";
+"Add Wizard is only available when server connection has been set based on the email address entered in the settings. (Disable advanced options in the settings)" = "Pridėjimo vedlys prieinamas tik tada, kai pagal įvestą el. pašto adresą užmegztas ryšys su serveriu! (Savo paskyros konfigūracijoje išjunkite išplėstines parinktis)";
+"The connected Server does not support this function!" = "Serveris, prie kurio prisijungta, nepaliko šios funkcijos!";
+"Device Configuration Completion timeout!" = "Viršytas įrenginio konfigūracijos užbaigimo laukimo laikas!";
+"Incorrect input parameters!" = "Klaidingi įvesties parametrai!";
+"The connected device is not compatible with this Wizard!" = "Įrenginys, su kuriuo užmegztas ryšys nėra suderinamas su šiuo vedliu!";
+"Configuration Failed!" = "Nepavyko sėkmingai baigti konfigūravimo!";
+"Connection with the device cannot be set!" = "Negalima užmegzti ryšio su įrenginiu!";
+"[Calibration]" = "[Kalibravimas]";
+"Help" = "Pagalba";
+"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L4N7RSWME6LG2" = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QYN932S5UQG8N";
+"Staircase timer" = "Laiptų automatas";
+"https://cloud.supla.org/register" = "https://cloud.supla.org/register?lang=lt";
+
+"Retrieving data from the server..." = "Duomenų atsisiuntimas iš serverio...";
+"No chart data available." = "Nėra duomenų diagramai.";
+"Electricity Meter" = "Elektros energijos skaitiklis";
+"Water Meter" = "Vandens skaitiklis";
+"Gas Meter" = "Dujų skaitiklis";
+
+"Forward active Energy" = "Aktyvioji energija parsisiųsta";
+"Reverse active Energy" = "Aktyvioji energija grąžinta";
+"Consumption in the current month" = "Suvartojimas einamąjį mėnesį";
+"Production in the current month" = "Gamyba einamąjį mėnesį";
+"Minutes" = "Minutės";
+"Hours" = "Valandos";
+"Days" = "Dienos";
+"Months" = "Mėnesiai";
+"Years" = "Metai";
+"Minute to minute comparison" = "Palyginimas minutė prie minutės";
+"Hour to hour comparison" = "Palyginimas valanda prie valandos";
+"Day to day comparison" = "Palyginimas diena prie dienos";
+"Month to month comparison" = "Palyginimas mėnuo prie mėnesio";
+"Year to year comparison" = "Palyginimas metai prie metų";
+"Ranking of hours" = "Valandų reitingas";
+"Ranking of weekdays" = "Savaitės dienų reitingas";
+"Ranking of months" = "Mėnesių reitingas";
+"Consumption according to phases" = "Suvartojimas pagal fazes";
+"Production according to phases" = "Gamyba pagal fazes";
+"Last 24 hours" = "Pastarosios 24 valandos";
+"Last 7 days" = "Pastarosios 7 dienos";
+"Last 30 days" = "Pastarosios 30 dienų";
+"Last 90 days" = "Pastarosios 90 dienų";
+"All available history" = "Visa prieinama istorija";
+"Phase 1" = "1 fazė";
+"Phase 2" = "2 fazė";
+"Phase 3" = "3 fazė";
+"Home+ Heater" = "Šildytuvas Home+";
+"Comfort" = "Comfort";
+"ECO" = "ECO";
+"Higher" = "Comfort";
+"Lower" = "ECO";
+"No water" = "Nėra Vandens";
+"Burnt heater" = "Šildytuvas perdegęs";
+"Water temperature sensor error" = "Vandens temperatūros jutiklio klaida";
+"Room temperature sensor error" = "Kambario temperatūros jutiklio klaida";
+"No network interruptions" = "Tinklo pertraukų nėra";
+"Room temperature" = "Temperatūra patalpoje";
+"ON" = "ĮJUNGTAS";
+"OFF" = "IŠJUNGTAS";
+"h" = "h";
+
+"Wind sensor" = "Vėjo greitis";
+"Weight sensor" = "Svoris";
+"Pressure sensor" = "Slėgio jutiklis";
+"Rain sensor" = "Kritulių matavimas";
+
+"Heat meter" = "Šilumos skaitiklis";
+
+"*Configuration mode is enabled by default on brand new products. It can also be enabled manually by pressing and holding CONFIG button or dimmer knob for around 5s.\n\n%@\n" = "Jei įrenginys įjungus maitinimą neveikia konfigūracijos režimu, palaikykite paspaustą mygtuką CONFIG bent 5 sekundes.\n\n%@\n";
+"Press Next to continue." = "Spustelėkite Pirmyn, jei norite tęsti";
+"Press START to start configuration." = "Paspauskite mygtuką START, kad pradėti konfigūravimą.";
+"I/O Device connection setting timeout!" = "Viršytas ryšio užmezgimo su vykdomuoju įrenginiu laukimo laikas!";
+"No I/O Devices found! Please check if your I/O Device is ON and in configuration mode." = "Nerasta jokių įrenginių! Įsitikinkite, kad įrenginys, kurį norite konfigūruoti veikia konfigūracijos režime, o tada pabandykite dar kartą.";
+"No function" = "Funkcijų nėra";
+"Gateway lock operation" = "Durelių atidarymas";
+"Gate operation" = "Įvažiavimo vartų atidarymas/uždarymas";
+"Garage door operation" = "Garažo vartų atidarymas/uždarymas";
+"Humidity sensor" = "Drėgmės jutiklis";
+"Temperature and humidity sensor" = "Temperatūros ir drėgmės jutiklis";
+"Door lock operation" = "Durų atidarymas";
+"Roller shutter operation" = "Žaliuzių atidengimas ir uždengimas";
+"On/Off switch" = "Maitinimo jungiklis";
+"Light switch" = "Šviesos jungiklis";
+"Weather Station" = "Meteorologijos stotis";
+"Thermostat" = "Termostatas";
+"Valve" = "Vožtuvas";
+"The waiting time for changing the channel caption has expired." = "Baigėsi kanalo parašo keitimo laukimo laikas.";
+"The channel caption change failed. Code %i" = "Kanalo parašo pakeitimas nepavyko. Kodas %i";
+"You cannot change the function of a channel that belongs to a group." = "Negalima pakeisti kanalo, kuris priklauso grupei, funkcijų.";
+"You cannot change the function of a channel that has a schedule." = "Negalima pakeisti kanalo, kuris turi tvarkaraštį, funkcijų.";
+"You cannot change the function of a channel that is associated with a scene." = "Negalima pakeisti kanalo, kuris susietas su scena, funkcijų.";
+"The channel function change failed. Code %i" = "Kanalo funkcijos pakeitimas nepavyko. Kodas %i";
+"The waiting time for changing the channel function has expired." = "Baigėsi kanalo funkcijų keitimo laukimo laikas.";
+"The z-wave bridge is not responding. Check if the bridge is connected to the server." = "Z-wave tinklas neatsako. Patikrinkite, ar tiltas prijungtas prie serverio.";
+"Searching the z-wave network to build a list of devices." = "Paieška z-wave tinkle siekiant sudaryti įrenginių sąrašą.";
+"The waiting time for the ID of the assigned z-wave device has expired." = "Baigėsi priskirto z-wave įrenginio  identifikatoriaus laukimo laikas.";
+"Device response not as expected. Method: \"%@\" Code: %i" = "Įrenginio atsakymas neatitinka tikėtino atsakymo. Metodas: \"%@\" Kodas: %i";
+"The waiting time for the list of z-wave devices has expired." = "Baigėsi z-wave įrenginių sąrašo laukimo laikas.";
+"Assigned to:" = "Priskirta:";
+"Waiting for confirmation of resetting the z-wave network together with clearing the settings." = "Laukiama z-wave tinklo atstatymo kartu su nustatymų pašalinimu.";
+"The waiting time for the z-wave network reset has expired." = "Baigėsi z-wave tinklo atstatymo laukimo laikas.";
+"Are you sure you want to reset the settings and z-wave network?" = "Ar tikrai norite atstatyti nustatymus ir z-wave tinklą?";
+"This function is not available when the bridge is in slave mode." = "Kai tiltas veikia antraeiliame režime ši funkcija neprieinama.";
+"Waiting for button press on the z-wave device." = "Laukiama, kol bus paspaustas mygtukas z-wave įrenginyje.";
+"The waiting time for pressing the button has elapsed." = "Baigėsi mygtuko paspaudimo laukimo laikas.";
+"Waiting for the device to be added to the z-wave network." = "Laukiama, kol įrenginys bus pridėtas prie z-wave tinklo.";
+"The waiting time for adding the device to the z-wave network has expired." = "Baigėsi įrenginio pridėjimo prie z-wave tinklo laukimo laikas.";
+"The waiting time to remove the device has expired." = "Baigėsi įrenginio pašalimo laukimo laikas.";
+"The waiting time for the z-wave device assignment to the channel has elapsed." = "Baigėsi z-wave įrenginio priskyrimo prie kanalo laukimo laikas.";
+"The selected z-wave device is already associated with another channel. Are you sure you want to move this device to this channel?" = "Pasirinktas z-wave įrenginys jau susietas su kitu kanalu. Ar tikrai norite perkelti šį įrenginį prie šio kanalo?";
+"Timeout waiting for z-wave bridge response." = "Baigėsi z-wave tilto atsakymo laukimo laikas.";
+"Unexpected bridge response. Code: %i" = "Netikėtas tilto atsakymas. Kodas: %i";
+"Z-Wave bridge" = "Z-wave tiltas";
